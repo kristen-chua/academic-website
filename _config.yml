@@ -1,14 +1,14 @@
 # Site wide configuration
 
-title: Site Title
+title: Kristen Chua's Website
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Your Name
+  name: Kristen Chua
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  bio: "UCLA Library Assistant / NCSU Library Technology Jumpstart program participant"
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
   twitter: #username
