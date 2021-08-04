@@ -8,12 +8,12 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: Kristen Chua
   avatar: bio-photo.jpg
-  bio: "UCLA Library Assistant / NCSU Library Technology Jumpstart program participant"
+  bio: "UCLA Library Assistant / SJSU M.S. Informatics Graduate Student / NCSU Library Technology Jumpstart program participant"
   email: #emailaddress
   # Do not include the @ symbol in your Twitter username
-  twitter: #username
+  twitter: @kristen_chua
   linkedin: #username
-  github: #username
+  github: kristen-chua
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
