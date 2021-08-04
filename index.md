@@ -5,12 +5,12 @@ menutitle: Home
 menuorder: 1
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+I'm a library assistant working with electronic resources at UCLA. I am also an information and research technology enthusiast. My current interests include learning more about how digital assets can be more effectively managed, shared, accessed and used. My current research at SJSU is on voice-based conversational search methods and explores the evaluation of these methods when applied to small, closed-domain interactions between human-agent pairs.
 
 ## Current Interests and Projects:
 
 - Acquisitions
 - Electronic resources
-- DLorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Informatics
+- Conversational Search Systems
+- Integrated Library Systems
