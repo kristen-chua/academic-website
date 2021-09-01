@@ -5,17 +5,17 @@ menutitle: Resume
 ---
 ## Currently
 
-Current Position Description
+Collections Analysis and Services Specialist at the UCLA Library
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2021-2023`
+__San Jose State University__
+M.S. Informatics
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2014-2018`
+__University of Notre Dame__
+B.S. Applied Computational Mathematics and Statistics
 
 ## Awards
 
