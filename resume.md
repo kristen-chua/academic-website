@@ -5,7 +5,7 @@ menutitle: Resume
 ---
 ## Currently
 
-Collections Analysis and Services Specialist at the UCLA Library
+Learning about informatics, data science, data organization, information security and libraries 
 
 ## Education
 
