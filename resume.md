@@ -18,9 +18,11 @@ __University of Notre Dame__
 B.S. Applied Computational Mathematics and Statistics
 
 ## Awards
+`2021`
+STAR Award Recipient, University of California, Los Angeles 
 
-`2012`
-Name of Award, Organization 
+`2016`
+Andrews Scholar, Notre Dame Center for Social Concerns 
 
 ## Publications
 
@@ -45,8 +47,8 @@ Book Title, Journal Title
 
 ## Presentations
 
-`1994`
-Presentation Title, Conference, <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+`2021`
+Library Analytics with Microsoft Excel, Assessment for Change Team, Please contact me for more information. <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
 
 
 ## Occupation
