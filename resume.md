@@ -5,7 +5,8 @@ menutitle: Resume
 ---
 ## Currently
 
-Learning about informatics, data science, data organization, information security and libraries 
+Learning about informatics, data science, data organization, information security and libraries. 
+Please excuse the placeholder data as I update this site with more current information. Thank you!
 
 ## Education
 
