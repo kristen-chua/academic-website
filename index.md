@@ -5,13 +5,13 @@ menutitle: Home
 menuorder: 1
 ---
 
-I am a M.S. Informatics graduate student at San Jose State University and a library assistant working with electronic resources at the UCLA Library.  My current interests include learning more about digital asset management, data integration systems, and internet of things systems. My current research at SJSU is on voice-based conversational search methods and explores the evaluation of these methods when applied to closed-domain interactions between human-agent pairs.
+I am a M.S. Informatics graduate student at San Jose State University and an Information Services Analyst at the California Digital Library.  My interests include  supporting information-seeking users, digital asset management, and data engineering. My research at SJSU is on voice-based conversational search methods and explores the evaluation of these methods when applied to closed-domain interactions between human-agent pairs.
 
-Updating this site periodically as I learn more about HTML/CSS, and GitHub.
+I update this site periodically as time allows.
 
 ## Current Interests and Projects:
 
-- Acquisitions
+- Digital Libraries
 - Electronic resources
 - Informatics
 - Conversational Search Systems
