@@ -1,12 +1,14 @@
 ---
 layout: slide
-title: Example Reveal.js Presentation Deck
-excerpt: A sample file showing the correct markup for creating a Reveal.js slide deck"
+title: Scholarship and Skill Building in the SJSU M.S. Informatics Program and beyond Presentation Deck
+excerpt: A presentation showcasing my committment to showing leadership through initiatives related to libraries, records or information environments and external professional organizations. 
 # theme: simple
 transition: convex
 tags: [presentation]
 category: presentation
 ---
+<a>https://prezi.com/view/AuHSY2vnR5oGjp3TB1lM/</a>
+
 <section data-markdown>
   <textarea data-template>
     ## Reveal.js and Jekyll Academic
