@@ -1,8 +1,8 @@
 ---
 layout: post
-title: What is This?
-excerpt: "What is a static website generator, and why should I care?"
-modified: 2/29/2016, 9:00:24
+title: Recent Design Projects - July 2022
+excerpt: "A couple of graphics showcasing my designs from this month"
+modified: 7/14/2022, 9:00:24
 tags: [intro, beginner, jekyll, tutorial]
 comments: true
 category: blog
