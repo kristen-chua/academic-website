@@ -5,8 +5,7 @@ menutitle: Resume
 ---
 ## Currently
 
-Learning about informatics, data science, data organization, information security and libraries. 
-Please excuse the placeholder data as I update this site with more current information. Thank you!
+Learning about informatics, data science, information science, cybersecurity and libraries. Seeking out projects to develop and make use of my skills.
 
 ## Education
 
@@ -31,45 +30,35 @@ Andrews Scholar, Notre Dame Center for Social Concerns
 
 ### Journals
 
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
+`2021`
+["Don't Downvote A\$\$\$\$\$\$s!!": An Exploration of Reddit's Advice Communities](https://www.researchgate.net/publication/354779319_Don't_Downvote_As_An_Exploration_of_Reddit's_Advice_Communities), HICSS 2022
 
 ### Books
 
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
+In progress
 
 ## Presentations
 
+`2022`
+Studio Ghibli Website Redesign Presentation, CLRK Consulting (Human Centered Design Team). Please contact me for more information about a recording. 
+
 `2021`
-Library Analytics with Microsoft Excel, Assessment for Change Team, Please contact me for more information. <a href="https://MyWebsite.tld/presentation1">Link to Presentation</a>
+Library Analytics with Microsoft Excel, Assessment for Change Team. Please contact me for more information about a recording. 
 
 
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Information Services Analyst__, California Digital Library 
 
-- Task
-- Task
 
-`1994-1996`
-__Current Job Title__, Current Employer 
-
-- Task
-- Task
+`2019-2021`
+__Collections Analysis & Services Specialist__, UCLA 
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: July 2022 -->
 
 
