@@ -1,7 +1,7 @@
 ---
 layout: resume
 menuorder: 3
-menutitle: Resume
+menutitle: Vitae
 ---
 
 Learning about informatics, data science, information science, cybersecurity and libraries. Seeking out projects to develop and make use of my skills.
