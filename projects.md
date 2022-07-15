@@ -2,6 +2,6 @@
 layout: page
 excerpt: "About Me..."
 menutitle: Projects
-menuorder: 4
+menuorder: 5
 ---
 Projects
