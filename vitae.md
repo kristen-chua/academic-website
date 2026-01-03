@@ -4,8 +4,7 @@ menuorder: 3
 menutitle: Vitae
 ---
 
-Learning about informatics, data science, information science, cybersecurity and libraries. Seeking out projects to develop and make use of my skills.
-
+Learning about informatics, data science, information science, cybersecurity and libraries.
 ## Education
 
 `2021-2023`
